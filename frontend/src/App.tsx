@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="min-h-screen bg-black p-5">
       <Testano />
-      <h1 className="text-2xl font-bold text-blue-800 mb-6">
+      <h1 className="text-2xl font-bold text-white mb-6">
         Student Performance Dashboard
       </h1>
 
