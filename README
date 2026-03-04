@@ -1,0 +1,4 @@
+# Porject for frontend BI graphs
+
+A project for a dashboard in browser, using python and fastapi as backend and react wirh recharts on the frontend.
+This is a work in progress.
